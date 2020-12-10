@@ -1,2 +1,2 @@
 # smart
-Test project for learning flusk
+Test project for learning flask

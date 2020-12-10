@@ -1,0 +1,11 @@
+.test  {
+    position: fixed;
+    left: 200px;
+    border-top-left-radius: 20px;
+    float: right;
+    color: blueviolet;
+    background: lightgray;
+    border-radius: 10px;
+    width: 40%;
+    height: 400px;
+}

@@ -1,11 +1,25 @@
 .test  {
     position: fixed;
     left: 200px;
-    border-top-left-radius: 20px;
+    border-top-left-radius: 10px;
     float: right;
     color: blueviolet;
     background: lightgray;
-    border-radius: 10px;
-    width: 40%;
+    border-radius: 20px;
+    width: 800px;
     height: 400px;
+}
+.test  p {
+    display: block;
+    float: left;
+    position: auto;
+    color: red;
+    padding: 20px 30px;
+    background: darkgray;
+    border-radius: 20px;
+    margin: 10px
+}
+.test  p:hover {
+    background:#D43737;
+    color: white;
 }

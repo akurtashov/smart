@@ -6,8 +6,8 @@
     color: blueviolet;
     background: lightgray;
     border-radius: 20px;
-    width: 800px;
-    height: 400px;
+    width: 80%;
+    height: 50%;
 }
 .test  p {
     display: block;
@@ -22,4 +22,12 @@
 .test  p:hover {
     background:#D43737;
     color: white;
+}
+.test p:active {
+    background: darkgray;
+    color: red;
+    right: -10px
+}
+body {
+    background: lightblue;
 }
